@@ -1,0 +1,540 @@
+.full-body{
+    width: 100%;
+    height: 100vh;
+}
+
+
+.body{
+    margin: 0;
+    padding: 0;
+}
+.main-cont{
+    width: 100%;
+    height: 100vh;
+    
+}
+
+.first-sec{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+left: -1px;
+top: 0px;
+
+background: url("./images/Mask\ group\ \(3\).png");
+
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.logo-1{
+    
+    position: absolute;
+    left: 0;
+    margin-left: 35px;
+}
+
+ul{
+     display: flex;
+     margin: auto;
+     justify-content: flex-end;
+     align-items: center;
+     position: absolute;
+     right: 0;
+     width: 100%;
+     max-width: 1790px;
+     min-width: 1790px;
+     gap: 40px;
+
+}
+
+ul {
+    list-style-type: none;
+    /* margin: 0; */
+    padding: 60px;
+    overflow: hidden;
+    /* margin-top: 67px; */
+    /* margin-right: 187px; */
+    
+    
+   
+  }
+  
+  li {
+    float: left;
+    
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    
+    text-decoration: none;
+    font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 48px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+  }
+
+  .feel-t{
+    font-weight: 900;
+font-size: 82px;
+line-height: 123px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+max-width: 700px;
+  }
+
+  .feel-1{
+    font-style: normal;
+font-weight: 300;
+font-size: 30px;
+line-height: 45px;
+letter-spacing: 0.01em;
+
+color: #FFFFFF;
+max-width: 647px;
+
+  }
+
+  
+  
+  
+
+
+    .get-now-b{
+   font-weight: 600;
+   font-size: 18px;
+   line-height: 27px;
+   padding: 8px 30px;
+   color: #000000;
+   overflow: hidden;
+   border: transparent;
+   font-style: normal;
+font-weight: 300;
+font-size: 30px;
+line-height: 45px;
+/* identical to box height */
+
+letter-spacing: 0.01em;
+
+
+   
+background: #FFFFFF;
+border: 2px solid rgba(255, 255, 255, 0.35);
+border-radius: 34px;
+cursor: pointer;
+
+        
+
+    }
+
+    .text-sec-1{
+        position: absolute;
+        right: 0;
+        margin-top: 232px;
+        margin-right: 50px;
+    }
+
+    
+
+    .sec-2{
+        width: 100%;
+        height: 100vh;
+        /* background-color: aqua; */
+        /* margin: auto; */
+        margin-top: -26px;
+    }
+
+    .back-img{
+        
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+
+
+background: url("./images/young-fashionable-hipster-blues-jazz-acoustic-guitar-player-with-tattoos-his-arms-playing-melody\ 2.png");
+
+background-repeat: no-repeat;
+background-size: cover;
+left: -1px;
+
+
+    }
+
+    
+
+    .uper-img{
+        position: absolute;
+    width: 100%;
+    height: 100%;
+
+    margin-top: 58px;
+    left: 24px;
+    background: url("./images/girl-image.png");
+    background-repeat: no-repeat;
+
+    }
+    .v-1{
+       position: absolute;
+       left: 1022px;
+       /* margin-top: 66px; */
+       
+    }
+
+    .text-5{
+        font-style: normal;
+font-weight: 600;
+font-size: 98px;
+line-height: 147px;
+/* identical to box height */
+
+letter-spacing: 0.01em;
+
+color: #FFFAFA;
+max-width: 750px;
+
+    }
+
+
+    .text-6{
+        font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 45px;
+letter-spacing: 0.075em;
+
+color: #FFFAFA;
+max-width: 665px;
+
+    }
+
+    .text-all-1{
+        position: absolute;
+        right: 0;
+        max-width: 750px;
+        margin-right: 60px;
+        margin-top: 80px;
+    }
+
+    .choose-btn{
+        cursor: pointer;
+        font-weight: 600;
+        font-size: 18px;
+        line-height: 27px;
+        padding: 8px 30px;
+        color: #000000;
+        overflow: hidden;
+        border: transparent;
+        font-style: normal;
+     font-weight: 300;
+     font-size: 30px;
+     line-height: 45px;
+     /* identical to box height */
+     
+     letter-spacing: 0.01em;
+     
+     
+        
+     background: #FFFFFF;
+background: #6EC827;
+border: 2px solid rgba(255, 255, 255, 0.35);
+border-radius: 34px;
+}
+
+    .body{
+        margin:0;
+        padding:0;
+        overflow-y:hidden;
+    }
+
+
+    
+
+
+.best-s{
+    background: url(./images/best_resolution\ 1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+
+width: 100%;
+height: 100%;
+display: flex;
+flex-direction: column;
+align-items: center;
+}
+
+
+
+
+
+
+
+
+
+
+.sec-3{
+    width: 100%;
+    /* height: 100vh; */
+    background: #E6E6E6;
+    position: absolute;
+    margin: -8px;
+    margin-top: -20px;
+    
+
+}
+
+.sec-3-d{
+    width: 100%;
+    height: 100%;
+    margin-top: 27px;
+    background: #D9D9D9;
+    /* display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+     */
+}
+
+.ft-1{
+    width: 100%;
+    height: 100vh;
+    background:black;
+}
+
+.p-1{
+    font-style: normal;
+font-weight: 900;
+font-size: 63px;
+line-height: 94px;
+/* identical to box height */
+
+
+letter-spacing: 0.01em;
+
+color: #000000;
+
+}
+
+.p-2{
+    font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 54px;
+
+letter-spacing: 0.01em;
+
+color: #1E1E1E;
+max-width: 450px;
+
+}
+
+.p-all{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.p-3{
+    max-width: 700px;
+}
+.text-7{
+    font-style: normal;
+font-weight: 600;
+font-size: 55px;
+line-height: 82px;
+text-align: center;
+letter-spacing: 0.01em;
+
+color: #1E1E1E;
+max-width: 800px;
+
+}
+
+.img{
+    max-width: 900px;
+   
+}
+
+.test{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+
+
+
+
+
+
+
+
+
+
+.ft-s{
+    width: 100%;
+    height: 100vh;
+    background:aqua;
+}
+.sec-4{
+    width: 100%;
+    height: 100vh;
+background-color: aqua;
+margin-top: 50px;
+}
+
+.product{
+
+}
+
+
+.p-1{
+    font-style: normal;
+font-weight: 600;
+font-size: 36px;
+line-height: 54px;
+/* identical to box height */
+
+text-align: center;
+
+color: #222222;
+}
+
+.p-2{
+    font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 32px;
+/* or 200% */
+
+text-align: center;
+
+color: #818181;
+
+}
+
+.box-1{
+    box-sizing: border-box;
+    width: 100%;
+    /* max-width: 500px; */
+height: 648px;
+border: 1px solid #E5E5E5;
+border-radius: 10px;
+background-color: white;
+/* background: url(./images/mini_drone\ 1.png);
+    background-repeat: no-repeat;
+    background-size: auto;
+    position: absolute;
+    width: 100%;
+    height: 100%; */
+    display: flex;
+    flex-direction: column;
+    margin-left: 150px;
+    
+
+}
+
+
+
+
+
+
+.text-1{
+    font-style: normal;
+font-weight: 600;
+font-size: 36px;
+line-height: 54px;
+/* identical to box height */
+
+text-align: center;
+
+color: #222222;
+
+}
+
+
+.text-2{
+    font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 36px;
+/* or 180% */
+
+text-align: center;
+
+color: #222222;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.main-f{
+    display: flex;
+
+}
+
+.bt-1{
+    display: flex;
+    flex-direction: column;
+}
+
+.at-3{
+    display: flex;
+    flex-direction: column;
+}
+
+
+.n-t{
+    font-style: normal;
+font-weight: 600;
+font-size: 26px;
+line-height: 39px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+
+.ft-2{
+    display: flex;
+}
+
+
